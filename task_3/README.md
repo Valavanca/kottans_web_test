@@ -6,13 +6,13 @@
 
 -[Codecademy Ruby](ruby_codecademy.png)
 
--[Ruby Koans 142/284 {in progress}](#)
+-[Ruby Koans](ruby_koans.png)
 
--[Dynamic web application with Sinatra]
+-[Dynamic web application with Sinatra](sinatra.png)
 
 -[Programming Foundations with Python](foundation_python.png)
 
--#[Intro to Computer Science]
+-#Intro to Computer Science
   [1](intro_CS[1].png)
   [2](intro_CS[2].png)
   [3](intro_CS[3].png)
