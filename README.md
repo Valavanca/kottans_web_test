@@ -7,3 +7,5 @@
 [Task 2 solution](task_2/README.md)
 
 [Task 3 solution](task_3/README.md)
+
+[Task 4 solution](task_4/README.md)
